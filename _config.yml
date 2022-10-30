@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
    Olin College of Engineering SAE Clean Snowmobile Challenge
 twitter_username: username
 github_username: olinsnow
-minimal_mistakes_skin: dark
+minimal_mistakes_skin: "dark"
 search: false
 
 # Build settings

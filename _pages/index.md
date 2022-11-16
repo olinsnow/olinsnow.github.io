@@ -1,5 +1,5 @@
 ---
-title: "Olin Snow"
+title: "Home"
 permalink: /
 # excerpt: "Homepage"
 gallery:
@@ -15,4 +15,4 @@ gallery:
 
 Test
 
-{% include gallery caption="This is a sample gallery with **Markdown support**." %}
+{% include gallery class="full" caption="This is a sample gallery with **Markdown support**." %}

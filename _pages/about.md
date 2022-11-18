@@ -1,7 +1,22 @@
 ---
 permalink: /about/
 title: "About"
+gallery:
+  - url: /assets/images/promo_img-11.jpg
+    image_path: /assets/images/promo_img-11.jpg
+    alt: "A student cuts a piece of sheet metal."
+    title: "Image 2 title caption"
+  - url: /assets/images/promo_img-13.jpg
+    image_path: /assets/images/promo_img-13.jpg
+    alt: "A student presents an idea during a leadership meeting."
+    title: "A student presents an idea during a leadership meeting."
+  - url: /assets/images/promo_img-03.jpg
+    image_path: /assets/images/promo_img-03.jpg
+    alt: "A student practaces welding."
+    title: "A student practaces welding."
 ---
+
+{% include gallery caption="" %}
 
 Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
 

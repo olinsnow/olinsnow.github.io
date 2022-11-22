@@ -2,18 +2,14 @@
 permalink: /about/
 title: "About"
 gallery:
-  - url: /assets/images/promo_img-11.jpg
-    image_path: /assets/images/promo_img-11.jpg
-    alt: "A student cuts a piece of sheet metal."
-    title: "Image 2 title caption"
-  - url: /assets/images/promo_img-13.jpg
-    image_path: /assets/images/promo_img-13.jpg
-    alt: "A student presents an idea during a leadership meeting."
-    title: "A student presents an idea during a leadership meeting."
   - url: /assets/images/promo_img-03.jpg
     image_path: /assets/images/promo_img-03.jpg
     alt: "A student practaces welding."
     title: "A student practaces welding."
+  - url: /assets/images/promo_img-04.jpg
+    image_path: /assets/images/promo_img-04.jpg
+    alt: "A student operates a band saw."
+    title: "A student operates a band saw."
 ---
 
 {% include gallery caption="" %}

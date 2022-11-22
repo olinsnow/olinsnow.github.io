@@ -23,4 +23,4 @@ gallery:
 
 Test
 
-{% include gallery caption="" %}
+{% include gallery layout="half" caption="" %}

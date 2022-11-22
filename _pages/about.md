@@ -14,6 +14,4 @@ gallery:
 
 {% include gallery caption="" %}
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
-
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+Olin Clean Snowmobile is a team of undergraduate students from Olin College of Engineering with the primary goal of acquiring technical skills through the modification of a snowmobile. The aim of the team is to alter the snowmobile to have low emissions and low noise polluton, learning how to apply engineering skills in a way that impacts the world in a positive way. This snowmobile will serve as a platform for team members to dive into mechanical, electrical, and software engineering fields that take sustainability into account. Olin Clean Snowmobile is actively pursuing a culture of learning and mentorship, creating a space for the transfer of knowledge and ideas.

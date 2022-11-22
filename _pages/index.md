@@ -7,10 +7,6 @@ gallery:
     image_path: /assets/images/promo_img-01.jpg
     alt: "A student practices welding on a tube."
     title: "A student practices welding on a tube."
-  - url: /assets/images/promo_img-04.jpg
-    image_path: /assets/images/promo_img-04.jpg
-    alt: "A student operates a band saw."
-    title: "A student operates a band saw."
   - url: /assets/images/promo_img-06.jpg
     image_path: /assets/images/promo_img-06.jpg
     alt: "A student uses a bench grinder."
@@ -23,6 +19,10 @@ gallery:
     image_path: /assets/images/promo_img-12.jpg
     alt: "Students during a leadership meeting."
     title: "Students during a leadership meeting."
+  - url: /assets/images/promo_img-04.jpg
+    image_path: /assets/images/promo_img-04.jpg
+    alt: "A student operates a band saw."
+    title: "A student operates a band saw."
 ---
 
 Test

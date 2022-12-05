@@ -12,7 +12,6 @@ We are registered as a nonprofit organization. All donations to the Olin Clean S
 ### Tiers
 
 | Sponsor Tier          | Flurry    | Snow        | Storm       | Blizzard    | Avalanche  |
-| --------------------- | --------- | ----------- | ----------- | ----------- | ---------- |
 | Donation Range        | $250-$999 | $1000-$2499 | $2500-$4999 | $5000-$9999 | $10000+    |
 | --------------------- | --------- | ----------- | ----------- | ----------- | ---------- |
 | Logo on Website       | *         | *           | *           | *           | *          |

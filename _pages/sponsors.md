@@ -21,9 +21,8 @@ We are registered as a nonprofit organization. All donations to the Olin Clean S
 | Drive Day | | | | | ✓ |
 ## Test
 
-| Sponsor Benefits         | Salary |                                                              |
-| --------         | ------ | ------------------------------------------------------------ |
-| [John Doe](#)    | $1     | Because that's all Steve Jobs needed for a salary.           |
-| [Jane Doe](#)    | $100K  | For all the blogging she does.                               |
-| [Fred Bloggs](#) | $100M  | Pictures are worth a thousand words, right? So Jane × 1,000. |
-| [Jane Bloggs](#) | $100B  | With hair like that?! Enough said.                           |
+| Sponsor Benefits   | Level 1 ($250-$999) | Level 2 ($1000-$2499) | Level 3 ($2500-$4999) | Level 4 ($5000-$9999) | Level 5 ($10000+) |
+| ------------------ | ------------------- | --------------------- | --------------------- | --------------------- | ----------------- |
+| Logo on Website    | *                   | *                     | *                     | *                     | *                 |
+| T-Shirt            | *                   | *                     | *                     | *                     | *                 |
+| Logo on Snowmobile | no                  | 10                    | 20                    | 30                    | 40                |
